@@ -3,7 +3,7 @@ This repository is for completing the basic competency test as one of the tests 
 
 ## Screenshot
 ### Course list
-![image](https://github.com/Obyyyy/crud-online-course/tree/master/screenshot/course-list.png)
+![image](https://github.com/Obyyyy/crud-online-course/blob/master/screenshot/course-list.png)
 
 ### Add Course
 ![image](https://github.com/Obyyyy/crud-online-course/tree/master/screenshot/add-course.png)
