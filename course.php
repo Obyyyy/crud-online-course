@@ -89,8 +89,6 @@
     ?>
                     </tbody>
                 </table>
-                <a class="btn btn-success" href="/phpdasar/Praktikum%20Web%20II/Praktikum5" role="button"><i
-                        class="fa-solid fa-house"></i> Beranda</a>
                 <a class="btn btn-primary" href="formCourse.php" role="button"><i class="fa-solid fa-square-plus"></i>
                     Tambah Course</a>
             </div>
