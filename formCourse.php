@@ -1,5 +1,5 @@
 <?php 
-    require "Koneksi.php";
+    require "config/Koneksi.php";
     require "controller/courseController.php";
 
     // $judul = $description = $duration = $tahunTerbit = "";

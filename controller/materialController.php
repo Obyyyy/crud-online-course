@@ -1,5 +1,5 @@
 <?php 
-    require "Koneksi.php";
+    require "config/Koneksi.php";
     class Material {
         public function getMaterial(){
             $query = "SELECT * FROM materials";

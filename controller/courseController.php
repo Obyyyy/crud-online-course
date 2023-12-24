@@ -1,5 +1,5 @@
 <?php 
-    require "Koneksi.php";
+    require "config/Koneksi.php";
     class Course {
         public function getCourse(){
             $query = "SELECT * FROM courses";

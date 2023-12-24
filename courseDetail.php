@@ -1,5 +1,5 @@
 <?php 
-    require "Koneksi.php";
+    require "config/Koneksi.php";
     require "Controller/courseController.php";
     require "Controller/materialController.php";
 

@@ -1,5 +1,5 @@
 <?php 
-    require "Koneksi.php";
+    require "config/Koneksi.php";
     require "controller/courseController.php";
     require "controller/materialController.php";
 
@@ -74,9 +74,9 @@
                 <div class="card-header bg-primary text-white">
                     <?php 
                 if(isset($_GET['id_buku'])){
-                    echo "<b>Edit Data Buku</b>";
+                    echo "<b>Edit Data Materi</b>";
                 } else {
-                    echo "<b>Tambah Data Buku</b>";
+                    echo "<b>Tambah Materi</b>";
                 }
             ?>
                 </div>
@@ -98,7 +98,7 @@
                             <label for="duration" class="form-label">Link</label>
                             <input type="text" class="form-control" id="link" name="link"
                                 <?php echo (isset($_GET['id_material'])) ? "value='".$baris[0]["link"]."'" : "value = ''"; ?>
-                                placeholder="https://www.youtube.com/embed/..." required>
+                                placeholder="https://youtube.com/embed/XxXxXxXxXxX" required>
                         </div>
                         <div class="col-auto">
                             <table>
