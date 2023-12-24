@@ -11,5 +11,5 @@ This repository is for completing the basic competency test as one of the tests 
 ### Detail Course
 ![image](https://github.com/Obyyyy/crud-online-course/blob/master/screenshot/detail-course.png)
 
-### Add Course
+### Add Material
 ![image](https://github.com/Obyyyy/crud-online-course/blob/master/screenshot/add-material.png)
